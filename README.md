@@ -23,4 +23,7 @@ This was a hobby I picked up at a very young age.
 I have collected a variety of rare coins, ranging from ancient coins to more modern memorial coins.
 ## Useful Websites I Reccomend
   * [Epicurious](https://www.epicurious.com/) - Epicurious is a useful website for finding a variety of recipes and cooking tips.
-  * 
+  * [PBS](https://www.pbs.org/shows/?search=&genre=history&source=all-sources&sortBy=popular&stationId=fa2384b8-9593-4d58-a129-4deb3a1f764a) - PBS is a useful website and streaming service, containing a variety of history articles and documentaries.
+  * [GoSwim](https://www.goswim.tv/) - GoSwim is a useful website that has a variety of resources ranging from interesting articles to videos containing advice to improve your training.
+  * [Heritage Auctions](https://coins.ha.com/ref/beginners-price-guide.zx) - Heritage Auctions is a useful site for finding the valuations of collectable coins. 
+ 

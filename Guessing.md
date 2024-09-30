@@ -1,4 +1,4 @@
-##Guessing Game Flow Chart
+## Guessing Game Flow Chart
 ```mermaid
 flowchart TD
     Start([Start]) --> Introduction
